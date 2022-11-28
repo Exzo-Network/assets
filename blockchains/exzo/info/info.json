@@ -1,0 +1,24 @@
+{
+    "name": "Exzo Network",
+    "website": "https://www.exzo.network/",
+    "description": "An open-source PoS blockchain to write and distribute decentralized applications.",
+    "explorer": "https://etherscan.io/",
+    "symbol": "XZO",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Exzo_Network"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Exzo_Network"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://docs.exzo.technology/"
+        }
+    ]
+}
