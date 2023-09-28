@@ -1,11 +1,11 @@
 {
-    "name": "Wrapped EXZO",
+    "name": "Wrapped Exzo",
     "type": "ERC20",
     "symbol": "WXZO",
     "decimals": 18,
     "website": "https://exzo.network",
     "description": "Tokenized version of EXZO",
-    "explorer": "https://exzoscan.io/token/0xC1128CB655cB12A67228505a86c6C867033215fF",
+    "explorer": "https://evm.exzoscan.io/token/0xb48344E930106cED3413BA69669CaD8b6DD4e1A5",
     "status": "active",
-    "id": "0xC1128CB655cB12A67228505a86c6C867033215fF"
+    "id": "0xb48344E930106cED3413BA69669CaD8b6DD4e1A5"
 }
